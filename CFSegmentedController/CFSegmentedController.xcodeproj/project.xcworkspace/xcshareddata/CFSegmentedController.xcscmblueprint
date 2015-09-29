@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "d01cfe0f-b157-4946-a3a8-786e0745667c",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "d01cfe0f-b157-4946-a3a8-786e0745667c" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "d01cfe0f-b157-4946-a3a8-786e0745667c" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "7BF710B9-F56E-4A42-8D57-13E03D136076",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "d01cfe0f-b157-4946-a3a8-786e0745667c" : "code_ios\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "CFSegmentedController",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "CFSegmentedController\/CFSegmentedController.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/192.168.0.30\/svn\/IOS_Tastefashion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "d01cfe0f-b157-4946-a3a8-786e0745667c"
+    }
+  ]
+}
